@@ -1,0 +1,4 @@
+.vagrant
+config/*
+packages/*
+ubuntu-*-console.log
